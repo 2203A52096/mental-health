@@ -1,0 +1,7 @@
+pip==24.3.1
+streamlit
+numpy
+pandas
+matplotlib
+pickle
+scikit-learn
